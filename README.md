@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/40153807/225119746-f47a4306-1d52-429f-9443-17610b40783b.png)
 
 <!--
 **aleburbridge/aleburbridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### I'm a full-stack developer and student of Bloom Institute of Technology
+
+- 🔭 I’m currently working on a Jackbox-style browser game 
+- 🌱 I’m currently learning Spring and Query
+- 💬 Ask me what the point of a tuple is
+- 📫 How to reach me: LinkedIn in bio
