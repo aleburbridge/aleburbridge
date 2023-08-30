@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi 👋 I'm Alexander. I'm a full-stack developer and student of Bloom Institute of Technology
+### Hi 👋 I'm Alexander. I'm a full-stack developer and graduate of Bloom Institute of Technology
 
 - 🔭 I’m currently working on a Jackbox-style browser game 
-- 🌱 I’m currently learning Spring and Query
 - 💬 Ask me what the point of a tuple is
 - 📫 How to reach me: LinkedIn in bio
